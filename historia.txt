@@ -5,3 +5,5 @@ Gonzalo Cayunao tiene 37 años y nació en Chile.
 Hoy hablaremos de su historia.
 
 Mañana nos enfocaremos en su vida laboral.
+
+Posee un github alias llamado kayunawel.
